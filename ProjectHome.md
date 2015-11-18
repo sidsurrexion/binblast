@@ -1,0 +1,4 @@
+As the development of malicious code and subsequent exploitation has become not only profitable but also lucrative, malicious code becomes necessarily more recondite. The very methods used to defend against such code -- patches, scanners, configuration change themselves are contributing to the problem by requiring constant updates and thus reducing the time available for analysis. The concept of this thesis is to draw an analog to a similar analysis problem in Biology and thus leverage existing analysis techniques. After
+development and analysis, the technique of this thesis is used for two applications: determining the interrelation of various malicious software and evaluating the differences among different versions of the same executable.
+
+This codebase is the ongoing development on binBLAST, an adaptation of the Basic Linear Alignment Search Tool (Altschul, et al) for binary executables as well as a number of support programs for phylogenic analysis.
